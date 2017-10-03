@@ -1,0 +1,13 @@
+Package: fire
+Type: Package
+Title: An R6 version of the FinancialInstruments Package
+Version: 0.0.1
+Author: Steve Bronder
+Maintainer: Steve Bronder <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: BSD-2
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R6
