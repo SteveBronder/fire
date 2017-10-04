@@ -9,7 +9,7 @@ test$addCurrency(primary_id = EUR, multipler = 1.3, foo = "baloney")
 test$getCurrency(primary_id = EUR)
 test$addStock(primary_id = ETX, currency = USD)
 test$getStock(ETX)
-<stock>
+#<stock>
 #  Public:
 #    clone: function (deep = FALSE) 
 #    currency: NULL #whoops!
