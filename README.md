@@ -12,11 +12,12 @@ test$getStock(ETX)
 #<stock>
 #  Public:
 #    clone: function (deep = FALSE) 
-#    currency: NULL #whoops!
+#    currency: NULL
 #    identifiers: currency, R6
 #    initialize: function (primary_id, identifiers = NULL, multiplier = 1, tick_size = 0.01, 
 #    multiplier: 1
 #    primary_id: primary_id
 #    tick_size: 0.01
 #    type: NULL
+
 ```
